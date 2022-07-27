@@ -1,0 +1,12 @@
+.para{
+    color: maroon;
+    font-family: Merriweather;
+    font-size: large;
+}
+.link{
+    color: maroon;
+    background-color: yellow;
+    font-size: large;
+    text-decoration: none;
+    font-family: Roboto;
+}
